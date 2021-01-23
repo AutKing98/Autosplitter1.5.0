@@ -1,0 +1,6 @@
+go to your obs right-click on you capture card highlight windowed projecter (source)
+then on auto splitter go to load fileand click KHII.pkl
+when you speedrun take a screenshot with autoslpitter of what you want to split make
+sure you dont do images to dark or light for your splits or It will automaticly
+go to the next image and split for you. I left a Image file for you.
+you need to set the timer to 0.50 seconds for this to be accurate.
